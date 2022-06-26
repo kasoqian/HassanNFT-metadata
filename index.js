@@ -34,6 +34,11 @@ let metadataSource = {
       metadataSource.attributes[3].value,
     );
 
+    metadataSource.attributes.map(item => {
+      item.value = item.value.toString();
+      return item;
+    });
+
     rarity[metadataSource.attributes[4].value] =
       rarity[metadataSource.attributes[4].value] + 1;
 
