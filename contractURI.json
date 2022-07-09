@@ -3,6 +3,6 @@
   "description": "kasoqian test",
   "image": "https://img1.baidu.com/it/u=1624676498,3671459173&fm=253&fmt=auto&app=138&f=JPEG?w=667&h=500",
   "external_link": "baidu.com",
-  "seller_fee_basis_points": 1000, # Indicates a 1% seller fee.
-  "fee_recipient": "0xDc8611873fab19209f8845714a02eD17e287aB7C" # Where seller fees will be paid to.
+  "seller_fee_basis_points": 1000, 
+  "fee_recipient": "0xDc8611873fab19209f8845714a02eD17e287aB7C"
 }
