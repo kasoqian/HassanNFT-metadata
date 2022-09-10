@@ -1,0 +1,8 @@
+{
+  "name": "kasoqian",
+  "description": "kasoqian test",
+  "image": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fhbimg.b0.upaiyun.com%2F680ae542ce835d11db58660a2ea5e1f0c9c1f8b025dda-5wgpaa_fw658&refer=http%3A%2F%2Fhbimg.b0.upaiyun.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1665406241&t=27e7fb9e93612c22367cae520963615a",
+  "external_link": "baidu.com",
+  "seller_fee_basis_points": 1000, 
+  "fee_recipient": "0x365BD17B8e50ed554CcD2Bfb2D4fdCa698B0D790"
+}
